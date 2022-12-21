@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/weihnachts-code/static/css/main.073c9b0a.css",
-    "main.js": "/weihnachts-code/static/js/main.849bcb4e.js",
+    "main.js": "/weihnachts-code/static/js/main.f5388412.js",
     "static/js/787.d7cec132.chunk.js": "/weihnachts-code/static/js/787.d7cec132.chunk.js",
     "index.html": "/weihnachts-code/index.html",
     "main.073c9b0a.css.map": "/weihnachts-code/static/css/main.073c9b0a.css.map",
-    "main.849bcb4e.js.map": "/weihnachts-code/static/js/main.849bcb4e.js.map",
+    "main.f5388412.js.map": "/weihnachts-code/static/js/main.f5388412.js.map",
     "787.d7cec132.chunk.js.map": "/weihnachts-code/static/js/787.d7cec132.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.849bcb4e.js"
+    "static/js/main.f5388412.js"
   ]
 }
