@@ -1,6 +1,7 @@
 {
   "name": "codecheck",
   "version": "0.1.0",
+  "homepage": "https://knorke123.github.io/weihnachts-code",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
