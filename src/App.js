@@ -27,7 +27,7 @@ function App() {
       </Row>
       <Row>
         {
-          MD5.generate(curText)==="1b2f0d0e15cfda97f350695e279e989f" ?
+          MD5.generate(curText.toLowerCase())==="1b2f0d0e15cfda97f350695e279e989f" ?
           (<h1>🎉🎉✅🎉🎉</h1>):(<h1>❌</h1>)
         }
       </Row>

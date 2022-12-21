@@ -41,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "deploy-to-github-pages": "^1.0.1",
     "gh-pages": "^4.0.0"
   }
 }
