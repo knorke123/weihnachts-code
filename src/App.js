@@ -22,7 +22,19 @@ function App() {
       </Row>
       <Row>
         <Col>
-          <ReactCodeInput type='text' fields={13} onChange={(text)=>{setCurtext(text)}} />
+          <ReactCodeInput type='text' fields={13} 
+    onChange={(text)=>{setCurtext(text)}} 
+      inputStyle= {{
+      fontFamily: 'monospace',
+      margin:  '4px',
+      MozAppearance: 'textfield',
+      width: '20px',
+      borderRadius: '3px',
+      fontSize: '14px',
+      height: '26px',
+      border: '1px solid'
+      }}
+    />
         </Col>
       </Row>
       <Row>
